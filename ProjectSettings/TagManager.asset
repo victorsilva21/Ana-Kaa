@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - dano
+  - ataque
+  - chao
+  - VCam
+  - eventTrigger
+  - bossHud
+  - chao_atravessavel
+  - deathHud
+  - LookDefault
+  - LookDownL
+  - Dialogue
+  - c1
+  - Anhaga
+  - Hud controls
+  - c2
+  - c3
+  - c4
+  - c5
+  - music_fade_trigger
+  - musica_boss_trigger
+  - Pause Button
+  - Pause Menu
+  - c3.5
+  - music_control
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - boss
+  - chao
+  - untouch
+  - cutscene
+  - espinhos
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
