@@ -4,6 +4,8 @@ Este foi um projeto desenvolvido em grupo, devido a isto, deixo aqui as devidas 
 
 Programadores: Victor Silva (Email: visipasa@gmail.com) e Bruno Simões (Email: ignysdev@gmail.com).
 
+Musicista: Victor Silva
+
 Artista: Rodrigo Souza (instagram: @rodrgoos)
 
 Roteirista e gestor de projeto: Anselmo
