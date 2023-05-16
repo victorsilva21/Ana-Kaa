@@ -8,7 +8,7 @@ Musicista: Victor Silva
 
 Artista: Rodrigo Souza (instagram: @rodrgoos)
 
-Roteirista e gestor de projeto: Anselmo
+Roteirista e gestor de projeto: Anselmo (https://github.com/Akashic002)
 
 Artista auxiliar: Victor Hugo (instagram: @vituruguu)
 
