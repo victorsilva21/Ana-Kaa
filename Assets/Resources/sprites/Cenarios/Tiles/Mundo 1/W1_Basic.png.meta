@@ -75,7 +75,7 @@ TextureImporter:
       213: 6369753849308592394
     second: W1_Basic_23
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -96,6 +96,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -134,6 +135,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -185,6 +187,18 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -831,6 +845,31 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      W1_Basic_12: 5306792745861471935
+      W1_Basic_9: -7367375781890170687
+      W1_Basic_10: -7491398915053778167
+      W1_Basic_2: 2301162730975018142
+      W1_Basic_15: -6511308909483608932
+      W1_Basic_17: 1199493498612962393
+      W1_Basic_16: -8651397617093494015
+      W1_Basic_3: 7822894955113930491
+      W1_Basic_1: 8277429346951035882
+      W1_Basic_7: -3140450768144585856
+      W1_Basic_6: 683566156841812243
+      W1_Basic_22: -7828100467953908151
+      W1_Basic_20: 6322313459494165384
+      W1_Basic_21: -6121702994537771305
+      W1_Basic_0: 3378738546417235367
+      W1_Basic_8: 1455489057767911766
+      W1_Basic_4: 4431521718548136517
+      W1_Basic_13: 6119656830414599193
+      W1_Basic_11: 8296342456745485117
+      W1_Basic_23: 6369753849308592394
+      W1_Basic_19: 523952858699425657
+      W1_Basic_18: -8402771240419070245
+      W1_Basic_5: -6830366478461623104
+      W1_Basic_14: 2044274805820353103
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

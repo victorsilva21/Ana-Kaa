@@ -15,8 +15,8 @@ public class Cutscenemanagement : MonoBehaviour
     CinemachineFramingTransposer transp;
     GameObject d_box;                 // dialogue box
     TMP_Text d_text;               // dialogue text
-    GameObject[] hud;
-    joystick joy;                   //
+    [SerializeField]GameObject[] hud;
+    [SerializeField]joystick joy;                   //
     Vector2 t_default;              // Transpose default
     Vector2 t_current;              // Transpose current
     public bool locked = false;     // Camera locked
@@ -48,7 +48,7 @@ public class Cutscenemanagement : MonoBehaviour
         {
             if (hud[i].name == "joystick")
             {
-                joy = hud[i].transform.GetChild(0).GetComponent<joystick>();
+                joy = hud[i].transform.GetChild(1).GetComponent<joystick>();
             }
         }
     }

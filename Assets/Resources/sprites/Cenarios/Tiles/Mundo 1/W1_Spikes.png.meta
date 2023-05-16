@@ -63,7 +63,7 @@ TextureImporter:
       213: 6116586741309746753
     second: W1_Spikes_19
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -84,6 +84,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -122,6 +123,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -161,6 +163,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -692,6 +718,27 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      W1_Spikes_18: 3734777927862209972
+      W1_Spikes_13: 6711011081147792656
+      W1_Spikes_8: -7401459297347212045
+      W1_Spikes_15: 847364666477302620
+      W1_Spikes_12: 4828300988007342638
+      W1_Spikes_5: 5472393667174259925
+      W1_Spikes_2: -8995150861398090019
+      W1_Spikes_6: -4136662454611657707
+      W1_Spikes_9: 4412649440976269883
+      W1_Spikes_16: -6032756274814331792
+      W1_Spikes_11: 845926657352508204
+      W1_Spikes_19: 6116586741309746753
+      W1_Spikes_14: 2321690056887591327
+      W1_Spikes_17: -8076072226394478854
+      W1_Spikes_4: 7884305400724921535
+      W1_Spikes_3: -5799310489405329291
+      W1_Spikes_7: -834834219069166138
+      W1_Spikes_10: 938102940968543897
+      W1_Spikes_0: -5398460835612921972
+      W1_Spikes_1: 1441436362908564374
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

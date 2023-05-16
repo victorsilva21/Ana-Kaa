@@ -144,7 +144,7 @@ TextureImporter:
       213: -8231381283836525233
     second: W1_Full_46
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -165,6 +165,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -203,6 +204,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -242,6 +244,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1540,6 +1566,54 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      W1_Full_34: 2695129432386963577
+      W1_Full_16: 5186568868478132799
+      W1_Full_26: 2720755618852150089
+      W1_Full_37: -4761229353515783040
+      W1_Full_0: 8345903450366831727
+      W1_Full_30: 447141355165225119
+      W1_Full_1: -6367271498903425792
+      W1_Full_3: -3073681496860649560
+      W1_Full_38: -493453880411936544
+      W1_Full_6: -1507660401371671920
+      W1_Full_24: 6022783064221648931
+      W1_Full_14: 6422094899552674442
+      W1_Full_42: 1504631452574942039
+      W1_Full_46: -8231381283836525233
+      W1_Full_2: 1680399387293704026
+      W1_Full_45: 7967417609278685377
+      W1_Full_7: 3465283990313078899
+      W1_Full_31: 7770081434994847968
+      W1_Full_19: -4135792607139598480
+      W1_Full_17: -4006211103512259030
+      W1_Full_13: -4896241046346490207
+      W1_Full_40: 5917384480603775452
+      W1_Full_28: 3612919058341242048
+      W1_Full_41: -4580627661549488810
+      W1_Full_10: -2471853872980938691
+      W1_Full_12: 7892581437374429014
+      W1_Full_4: 1557329769364846595
+      W1_Full_22: 299662535729446699
+      W1_Full_20: 2529240942087668677
+      W1_Full_15: 7644301908302284028
+      W1_Full_33: 4924709753362975724
+      W1_Full_23: 4018045065630542773
+      W1_Full_8: 7153932632266623918
+      W1_Full_21: -1291449226762962797
+      W1_Full_32: 8743142202668420642
+      W1_Full_5: -2304407585720657995
+      W1_Full_44: -5992775689331077556
+      W1_Full_11: -7886075204979602739
+      W1_Full_27: -4235540179600848776
+      W1_Full_35: -3672994051723873433
+      W1_Full_39: -2352177024595684747
+      W1_Full_18: 8654482194838724005
+      W1_Full_43: 898319657121601048
+      W1_Full_25: -3390731891004654535
+      W1_Full_9: -8931111263869605146
+      W1_Full_29: -7590521708194763076
+      W1_Full_36: 2001593683237686729
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
